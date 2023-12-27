@@ -10,7 +10,7 @@ import { Country } from '../../interfaces/country';
   templateUrl: './country-page.component.html',
   styleUrl: './country-page.component.css'
 })
-export class CountryPageComponent implements OnInit{
+export class CountryPageComponent implements OnInit {
 
   public country?: Country;
 
